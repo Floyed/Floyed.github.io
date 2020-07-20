@@ -299,8 +299,8 @@ ul#nav li.current a { color: #F06000; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #ccc;
-  	height: 42px;
+  	/* background: #ccc; */
+  	/* height: 42px; */
   	border-radius: 3px;
 }
 .bars li em {
@@ -310,7 +310,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
+	top: -20px;
 }
 .bar-expand {
    position: absolute;
